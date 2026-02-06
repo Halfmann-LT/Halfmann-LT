@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Currently studying CS at UEA
+### Currently studying CS at UEA || Founding Software Engineer @ UEA Innovators
 #### No major projucts underway right now..
 <!--
 **Halfmann-LT/Halfmann-LT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
